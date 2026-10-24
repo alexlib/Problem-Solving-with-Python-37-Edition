@@ -217,4 +217,4 @@ pdf/combined_files/
 # Python Virtual Environments
 venv/
 .venv/
-
+uv.lock
